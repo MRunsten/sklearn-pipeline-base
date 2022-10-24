@@ -1,0 +1,3 @@
+# Scikit-learn regressor pipeline
+
+This repository contains Python code that can be used to train machine learning (regressor) models and evaluate their performance using the scikit-learn library. Using this code requires having or acquiring a dataset suitable for training a machine learning model and modifying the repositories' Python files accordingly to the dataset in question. Furthermore this repository should be relatively easy to be extended in order to deploy a fully working pipeline that can contain all steps from dataset acquisition (for example from an API), data preprocessing, model training, model evaluation and finally model deployment (for example as an HTTP API).
